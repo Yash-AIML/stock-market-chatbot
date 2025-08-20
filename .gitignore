@@ -1,0 +1,4 @@
+penv
+.env
+temp
+__pycache__
